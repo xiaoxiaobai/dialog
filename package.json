@@ -1,0 +1,22 @@
+{
+    "name": "dialog",
+    "version": "1.0.0",
+    "root": "arale",
+    "description": "",
+    "homepage": "",
+    "author": "",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "bugs": {
+        "url": ""
+    },
+    "license": "MIT",
+    "dependencies": {
+    },
+    "tests": ["dialog"],
+    "output": {
+        "dialog.js": "."
+    }
+}
